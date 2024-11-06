@@ -1,0 +1,2 @@
+# oraculopadilha
+Bot com IA 
